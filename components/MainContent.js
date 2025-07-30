@@ -1,0 +1,1 @@
+export default function MainContent() { return <main>Main</main>; }
